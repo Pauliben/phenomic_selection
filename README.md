@@ -1,2 +1,2 @@
-# phenomic_selection
-Phenomic Selection in Blueberry
+# Phenomic Selection in Blueberry
+
